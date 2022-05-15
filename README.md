@@ -44,10 +44,10 @@ Seperation of Concerns. Realized how much easier it is to add css animations tha
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Matching Card Game</a>
+<a target="_blank" href="https://dogbreedapi.netlify.app/">Dog Breed API</a>
         <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
+        <a target="_blank" href="https://dogbreedapi.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/102561192/168476433-963ac8bc-7537-4595-afd1-ba47777053fb.gif" width="100%" alt="Matching Card Game"/>
         </a>
     </td>
   </tr>
