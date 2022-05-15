@@ -30,10 +30,10 @@ Seperation of Concerns. Realized how much easier it is to add css animations tha
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">Travelara.org</a>
+<a target="_blank" href="https://restaurant-sample-website.netlify.app/">Cuisine Restaurant Website</a>
         <br />
-      <a target="_blank" href="https://github.com/CharlesCreativeContent/lucid">
-            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Travelara.org"/>
+      <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/102561192/168475523-ead25589-119e-4df2-9cd9-d01bd126b14c.gif" width="100%"  alt="Travelara.org"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
