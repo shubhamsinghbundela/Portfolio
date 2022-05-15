@@ -2,7 +2,7 @@
 
 <a target="_blank" href="https://shubhamsigdar.netlify.app/">
 <!-- <img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true"></img> -->
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
+<img src="https://user-images.githubusercontent.com/102561192/168474651-da256062-41c4-4de3-9e7f-d4dfd39c6dec.gif" width="100%" alt="Portfolio"/>
 </a>
 
 ### Portfolio Site including links to my projects and ways to get in contact with me.
