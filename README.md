@@ -37,10 +37,10 @@ Seperation of Concerns. Realized how much easier it is to add css animations tha
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Rigley2-"FlappyBug"</a>
+<a target="_blank" href="https://hair-salon-website.netlify.app/">Hair Salon Website</a>
       <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
+        <a target="_blank" href="https://hair-salon-website.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/102561192/168475938-3917a575-928f-4d37-9fe6-322c83127550.gif" width="100%" alt="Rigley2-'FlappyBug'"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
